@@ -9,7 +9,7 @@ function App() {
 
   useEffect(
     ()=>{
-      fetch("data.json")
+      fetch("https://tuhakarainab.github.io/kenworth_files/kenworth.json")
       .then(response => response.json())
       .then(data => setTrucks(data))
       .catch(error => console.error("Error loading data", error))
