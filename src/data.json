@@ -1,0 +1,19 @@
+[
+    {
+        "model": "K200",
+        "tagline": "A Trucking Icon",
+        "image": "https://tuhakarainab.github.io/kenworth_files/k200.jpg"
+
+    },
+    {
+        "model": "T509",
+        "tagline": "RUGGED, RELIABLE AND TOUGH",
+        "image": "https://tuhakarainab.github.io/kenworth_files/c509.jpg"
+
+    },
+    {
+        "model": "T610",
+        "tagline": "THIS IS WHERE THE NEW ERA BEGINS",
+        "image": "https://tuhakarainab.github.io/kenworth_files/t610.jpg"
+    }
+]
